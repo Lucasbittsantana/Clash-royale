@@ -1,5 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=BBH+Sans+Bogle&display=swap');
+
 body{
+
     background-color: blue;
     color: blueviolet;
-}  
+    font-family: "BBH Sans Bogle", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 800px;
+    margin: 0;
+    
+}
 
+
+
+
+.img01{
+   width: 110%;
+
+}  
