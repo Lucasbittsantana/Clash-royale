@@ -8,7 +8,8 @@ avanca.forEach(button => {
 
     atual.classilist.remove('ativo')
     document.getElementById(proximopasso).classList.add('ativo')
-
+    })
+})
 
 
 
